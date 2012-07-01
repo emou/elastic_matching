@@ -1,0 +1,8 @@
+/build
+/doc
+/*.bmp
+/*.pdf
+.*.swp
+.DS_Store
+*.o
+tags
